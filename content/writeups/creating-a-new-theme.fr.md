@@ -11,7 +11,7 @@ slug = "Creation d'un nouveau theme"
 type = "post"
 +++
 
-## Voila le site
+## >Le site il a changé
 
 Ce tutoriel vous montrera comment créer un thème simple pour Hugo. Je suppose que vous êtes familier avec HTML, la ligne de commande bash, et que vous êtes à l'aise avec Markdown pour formater le contenu. Je vais expliquer comment Hugo utilise des modèles et comment vous pouvez organiser vos modèles pour créer un thème. Je ne couvrirai pas l'utilisation de CSS pour styliser votre thème.
 
