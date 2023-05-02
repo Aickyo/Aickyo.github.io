@@ -10,6 +10,7 @@ linktitle = ""
 title = "Création d'un nouveau thème"
 slug = "Creation d'un nouveau theme"
 type = "post"
+toc = true
 +++
 
 ## Bytes Breakers
