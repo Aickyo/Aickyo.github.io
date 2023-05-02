@@ -17,21 +17,5 @@
 Nous allons commencer par créer un nouveau site avec un modèle très basique.</description>
     </item>
     
-    <item>
-      <title>Débuter avec Hugo</title>
-      <link>https://aickyo.github.io/writeups/debuter-avec-hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aickyo.github.io/writeups/debuter-avec-hugo/</guid>
-      <description>&lt;h2 id=&#34;étape-1-installer-hugo&#34;&gt;Étape 1. Installer Hugo&lt;/h2&gt;
-&lt;p&gt;Allez sur la page de téléchargements de
-&lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo&lt;/a&gt; et téléchargez la version
-appropriée à votre système d&amp;rsquo;exploitation et votre architecture.&lt;/p&gt;
-&lt;p&gt;Sauvegardez le fichier téléchargé à un endroit précis, afin de l&amp;rsquo;utiliser dans
-l&amp;rsquo;étape suivante.&lt;/p&gt;
-&lt;p&gt;Des informations plus complètes sont disponibles sur la page
-&lt;a href=&#34;https://aickyo.github.io/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

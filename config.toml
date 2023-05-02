@@ -103,9 +103,6 @@ enableGlobalLanguageMenu = false
   url  = "https://twitter.com/aickyo"
 
 [[params.social]]
-  name = "email"
-  url  = "mailto:nobody@example.com"
-[[params.social]]
   name = "github"
   url  = "https://github.com/Aickyo"
 
@@ -115,7 +112,7 @@ enableGlobalLanguageMenu = false
 
 [[params.social]]
   name = "tryhackme"
-  url  = "https://fr.linkedin.com/in/valentin-tanguy-202035172"
+  url  = "https://tryhackme.com/p/Aickyo"
 
 
 # Navbar
