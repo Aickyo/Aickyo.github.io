@@ -6,7 +6,19 @@
     <description>Recent content on Aickyo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://aickyo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aickyo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[FCSC2023] Tri très sélectif</title>
+      <link>https://aickyo.github.io/writeups/fcsc2023-tri-tr%C3%A8s-s%C3%A9lectif/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aickyo.github.io/writeups/fcsc2023-tri-tr%C3%A8s-s%C3%A9lectif/</guid>
+      <description>Catégorie Algorithmique
+Description Comme l&amp;rsquo;épreuve Tri Sélectif, vous devez trier le tableau, mais cette fois vous devez être efficace !
+nc challenges.france-cybersecurity-challenge.fr 2052
+Solution Pour résoudre ce challenge, il faut trouver une méthode pour trier un tableau en minimisant les mouvements. Après quelques recherches, l&amp;rsquo;algorithme QuickSort permet de le résoudre. J&amp;rsquo;ai donc décidé d&amp;rsquo;implémenter cet algorithme à l&amp;rsquo;aide d&amp;rsquo;un programme Python pour trier notre tableau. Les étapes pour résoudre le défi consistent donc à récupérer le tableau non trié, utiliser l&amp;rsquo;algorithme QuickSort pour le trier, puis envoyer le tableau trié au serveur.</description>
+    </item>
+    
     <item>
       <title>Whoami</title>
       <link>https://aickyo.github.io/whoami/</link>
@@ -16,18 +28,6 @@
       <description>Bienvenue sur mon site personnel, je suis Aickyo actuellement étudiant en cybersécurité à l&amp;rsquo;ESNA. Je suis membre de l&amp;rsquo;équipe française CTF Bytes Breakers, composée d&amp;rsquo;étudiants de l&amp;rsquo;ESNA.
 Vous pourrez trouver des writeups de certains challenges de CTF auxquels nous avons participé !
  Twitter : twitter.aickyo.fr Github : github.aickyo.fr LinkedIn : linkedIn.aickyo.fr  </description>
-    </item>
-    
-    <item>
-      <title>[FCSC2023] Tri très sélectif</title>
-      <link>https://aickyo.github.io/writeups/fcsc2023-tri-tr%C3%A8s-s%C3%A9lectif/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aickyo.github.io/writeups/fcsc2023-tri-tr%C3%A8s-s%C3%A9lectif/</guid>
-      <description>Catégorie Algorithmique
-Description Comme l&amp;rsquo;épreuve Tri Sélectif, vous devez trier le tableau, mais cette fois vous devez être efficace !
-nc challenges.france-cybersecurity-challenge.fr 2052
-Solution Pour résoudre ce challenge, il faut trouver une méthode pour trier un tableau en minimisant les mouvements. Après quelques recherches, l&amp;rsquo;algorithme QuickSort permet de le résoudre. J&amp;rsquo;ai donc décidé d&amp;rsquo;implémenter cet algorithme à l&amp;rsquo;aide d&amp;rsquo;un programme Python pour trier notre tableau. Les étapes pour résoudre le défi consistent donc à récupérer le tableau non trié, utiliser l&amp;rsquo;algorithme QuickSort pour le trier, puis envoyer le tableau trié au serveur.</description>
     </item>
     
   </channel>

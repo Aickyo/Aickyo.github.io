@@ -1,8 +1,8 @@
 +++
 categories = ["Algorithmique"]
 tags = ["FCSC2023"]
-date = "2014-09-28"
-description = "Apprenez comment créer un thème Hugo"
+date = "2023-05-04"
+description = "Vous devez trier le tableau, mais cette fois vous devez être efficace !"
 featured = "pic01.jpg"
 featuredalt = ""
 featuredpath = "date"
