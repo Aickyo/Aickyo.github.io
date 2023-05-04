@@ -20,11 +20,11 @@ Solution Pour résoudre ce challenge, il faut trouver une méthode pour trier un
     </item>
     
     <item>
-      <title>[FCSC2023] Tri très sélectif</title>
-      <link>https://aickyo.github.io/writeups/fcsc2023-tri-tr%C3%A8s-s%C3%A9lectif/</link>
+      <title>Test</title>
+      <link>https://aickyo.github.io/writeups/test/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://aickyo.github.io/writeups/fcsc2023-tri-tr%C3%A8s-s%C3%A9lectif/</guid>
+      <guid>https://aickyo.github.io/writeups/test/</guid>
       <description>Catégorie Algorithmique
 Description Comme l&amp;rsquo;épreuve Tri Sélectif, vous devez trier le tableau, mais cette fois vous devez être efficace !
 nc challenges.france-cybersecurity-challenge.fr 2052</description>

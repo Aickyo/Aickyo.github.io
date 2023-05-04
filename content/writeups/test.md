@@ -7,8 +7,8 @@ featured = "pic01.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-title = "[FCSC2023] Tri très sélectif"
-slug = "[FCSC2023] Tri très sélectif"
+title = "Test"
+slug = "Test"
 type = "post"
 +++
 
