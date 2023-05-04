@@ -1,19 +1,16 @@
 +++
-categories = ["Hugo"]
-tags = ["Hugo"]
+categories = ["Algorithmique"]
+tags = ["FCSC2023"]
 date = "2014-09-28"
 description = "Apprenez comment créer un thème Hugo"
 featured = "pic01.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-title = "Création d'un nouveau thème"
-slug = "Creation d'un nouveau theme"
+title = "[FCSC2023] Tri très sélectif"
+slug = "[FCSC2023] Tri très sélectif"
 type = "post"
-toc = true
 +++
-
-# [FCSC2023] Tri très sélectif
 
 ## Catégorie 
 

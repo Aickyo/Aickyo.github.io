@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writeups on Aickyo</title>
-    <link>https://aickyo.github.io/writeups/</link>
-    <description>Recent content in Writeups on Aickyo</description>
+    <title>Algorithmique on Aickyo</title>
+    <link>https://aickyo.github.io/categories/algorithmique/</link>
+    <description>Recent content in Algorithmique on Aickyo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://aickyo.github.io/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://aickyo.github.io/categories/algorithmique/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[FCSC2023] Tri très sélectif</title>
       <link>https://aickyo.github.io/writeups/fcsc2023-tri-tr%C3%A8s-s%C3%A9lectif/</link>
