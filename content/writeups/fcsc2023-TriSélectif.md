@@ -3,7 +3,12 @@ categories = ["Algorithmique"]
 tags = ["FCSC2023"]
 date = "2023-09-28"
 description = "Vous devez trier le tableau, mais cette fois vous devez être efficace !"
+featured = "pic01.jpg"
+featuredalt = ""
+featuredpath = "date"
+linktitle = ""
 title = "[FCSC2023] Tri très sélectif"
+slug = "[FCSC2023] Tri très sélectif"
 type = "post"
 toc = true
 +++
