@@ -5,8 +5,7 @@
     <link>https://aickyo.github.io/</link>
     <description>Recent content on Aickyo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://aickyo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://aickyo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Whoami</title>
       <link>https://aickyo.github.io/whoami/</link>
@@ -16,16 +15,6 @@
       <description>Bienvenue sur mon site personnel, je suis Aickyo actuellement étudiant en cybersécurité à l&amp;rsquo;ESNA. Je suis membre de l&amp;rsquo;équipe française CTF Bytes Breakers, composée d&amp;rsquo;étudiants de l&amp;rsquo;ESNA.
 Vous pourrez trouver des writeups de certains challenges de CTF auxquels nous avons participé !
  Twitter : twitter.aickyo.fr Github : github.aickyo.fr LinkedIn : linkedIn.aickyo.fr  </description>
-    </item>
-    
-    <item>
-      <title>Création d&#39;un nouveau thème</title>
-      <link>https://aickyo.github.io/writeups/creation-dun-nouveau-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://aickyo.github.io/writeups/creation-dun-nouveau-theme/</guid>
-      <description>Bytes Breakers Ce tutoriel vous montrera comment créer un thème simple pour Hugo. Je suppose que vous êtes familier avec HTML, la ligne de commande bash, et que vous êtes à l&amp;rsquo;aise avec Markdown pour formater le contenu. Je vais expliquer comment Hugo utilise des modèles et comment vous pouvez organiser vos modèles pour créer un thème. Je ne couvrirai pas l&amp;rsquo;utilisation de CSS pour styliser votre thème.
-Nous allons commencer par créer un nouveau site avec un modèle très basique.</description>
     </item>
     
   </channel>
