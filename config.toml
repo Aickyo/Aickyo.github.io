@@ -121,6 +121,7 @@ enableGlobalLanguageMenu = false
     identifier = "whoami"
     name       = "Whoami"
     url        = "whoami/"
+    
   [[menu.main]]
     identifier = "writeups"
     name       = "Writeups"
