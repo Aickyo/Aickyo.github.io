@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="Aickyo ">
+<meta name="description" content="Apprenez comment créer un thème Hugo" />
+<meta name="keywords" content=", Hugo" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="" />
+<link rel="canonical" href="https://aickyo.github.io/writeups/creation-dun-nouveau-theme/" />
+
+
+    <title>
+        
+            Création d&#39;un nouveau thème :: Aickyo 
+        
+    </title>
+
+
+
+
+
+<link rel="stylesheet" href="https://aickyo.github.io/main.4e6700dfbb5c9df3b00061a2426d96521aa83ac54327a2671b65a48623318142.css" integrity="sha256-TmcA37tcnfOwAGGiQm2WUhqoOsVDJ6JnG2WkhiMxgUI=">
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="https://aickyo.github.io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://aickyo.github.io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://aickyo.github.io/favicon-16x16.png">
+    <link rel="manifest" href="https://aickyo.github.io/site.webmanifest">
+    <link rel="mask-icon" href="https://aickyo.github.io/safari-pinned-tab.svg" color="">
+    <link rel="shortcut icon" href="https://aickyo.github.io/favicon.ico">
+    <meta name="msapplication-TileColor" content="">
+
+
+<meta itemprop="name" content="Création d&#39;un nouveau thème">
+<meta itemprop="description" content="Apprenez comment créer un thème Hugo"><meta itemprop="datePublished" content="2014-09-28T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2014-09-28T00:00:00+00:00" />
+<meta itemprop="wordCount" content="272">
+<meta itemprop="keywords" content="Hugo," />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Création d&#39;un nouveau thème"/>
+<meta name="twitter:description" content="Apprenez comment créer un thème Hugo"/>
+
+
+
+    <meta property="og:title" content="Création d&#39;un nouveau thème" />
+<meta property="og:description" content="Apprenez comment créer un thème Hugo" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://aickyo.github.io/writeups/creation-dun-nouveau-theme/" /><meta property="article:section" content="writeups" />
+<meta property="article:published_time" content="2014-09-28T00:00:00+00:00" />
+<meta property="article:modified_time" content="2014-09-28T00:00:00+00:00" />
+
+
+
+
+
+    <meta property="article:section" content="Hugo" />
+
+
+
+    <meta property="article:published_time" content="2014-09-28 00:00:00 &#43;0000 UTC" />
+
+
+
+
+
+
+
+
+
+
+
+    </head>
+
+    
+        <body>
+    
+    
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="https://aickyo.github.io/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">&gt;</span>
+            <span class="logo__text ">
+                $ cd /home/Aickyo</span>
+            <span class="logo__cursor" style=
+                  "
+                   background-color:#1ad20d;
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="https://aickyo.github.io/whoami/">Whoami</a></li><li><a href="https://aickyo.github.io/writeups/">Writeups</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+
+        <div class="post-info">
+            
+            </p>
+        </div>
+
+        <article>
+            <h2 class="post-title"><a href="https://aickyo.github.io/writeups/creation-dun-nouveau-theme/">Création d&rsquo;un nouveau thème</a></h2>
+
+            
+            
+            
+                <hr />
+                <aside id="toc">
+                <div class="toc-title"></div>
+                    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#catégorie">Catégorie</a></li>
+    <li><a href="#description">Description</a></li>
+    <li><a href="#solution">Solution</a>
+      <ul>
+        <li><a href="#flag">Flag</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+                </aside>
+                <hr />
+            
+
+            <div class="post-content">
+                <h1 id="fcsc2023-tri-très-sélectif">[FCSC2023] Tri très sélectif</h1>
+<h2 id="catégorie">Catégorie</h2>
+<p>Algorithmique</p>
+<h2 id="description">Description</h2>
+<p>Comme l&rsquo;épreuve Tri Sélectif, vous devez trier le tableau, mais cette fois vous devez être efficace !</p>
+<p><code>nc challenges.france-cybersecurity-challenge.fr 2052</code></p>
+<h2 id="solution">Solution</h2>
+<p>Pour résoudre ce challenge, il faut trouver une méthode pour trier un tableau en minimisant les mouvements. Après quelques recherches, l&rsquo;algorithme QuickSort permet de le résoudre. J&rsquo;ai donc décidé d&rsquo;implémenter cet algorithme à l&rsquo;aide d&rsquo;un programme Python pour trier notre tableau.
+Les étapes pour résoudre le défi consistent donc à récupérer le tableau non trié, utiliser l&rsquo;algorithme QuickSort pour le trier, puis envoyer le tableau trié au serveur.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-py" data-lang="py"><span style="color:#75715e"># python3 -m pip install pwntools</span>
+<span style="color:#f92672">from</span> pwn <span style="color:#f92672">import</span> <span style="color:#f92672">*</span>
+
+<span style="color:#75715e"># Paramètres de connexion</span>
+HOST, PORT <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;challenges.france-cybersecurity-challenge.fr&#34;</span>, <span style="color:#ae81ff">2052</span>
+
+<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">comparer</span>(x, y):
+	io<span style="color:#f92672">.</span>sendlineafter(<span style="color:#e6db74">b</span><span style="color:#e6db74">&#34;&gt;&gt;&gt; &#34;</span>, <span style="color:#e6db74">f</span><span style="color:#e6db74">&#34;comparer </span><span style="color:#e6db74">{</span>x<span style="color:#e6db74">}</span><span style="color:#e6db74"> </span><span style="color:#e6db74">{</span>y<span style="color:#e6db74">}</span><span style="color:#e6db74">&#34;</span><span style="color:#f92672">.</span>encode())
+	<span style="color:#66d9ef">return</span> int(io<span style="color:#f92672">.</span>recvline()<span style="color:#f92672">.</span>strip()<span style="color:#f92672">.</span>decode())
+
+<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">echanger</span>(x, y):
+	io<span style="color:#f92672">.</span>sendlineafter(<span style="color:#e6db74">b</span><span style="color:#e6db74">&#34;&gt;&gt;&gt; &#34;</span>, <span style="color:#e6db74">f</span><span style="color:#e6db74">&#34;echanger </span><span style="color:#e6db74">{</span>x<span style="color:#e6db74">}</span><span style="color:#e6db74"> </span><span style="color:#e6db74">{</span>y<span style="color:#e6db74">}</span><span style="color:#e6db74">&#34;</span><span style="color:#f92672">.</span>encode())
+
+<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">longueur</span>():
+	io<span style="color:#f92672">.</span>sendlineafter(<span style="color:#e6db74">b</span><span style="color:#e6db74">&#34;&gt;&gt;&gt; &#34;</span>, <span style="color:#e6db74">b</span><span style="color:#e6db74">&#34;longueur&#34;</span>)
+	<span style="color:#66d9ef">return</span> int(io<span style="color:#f92672">.</span>recvline()<span style="color:#f92672">.</span>strip()<span style="color:#f92672">.</span>decode())
+
+<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">verifier</span>():
+	io<span style="color:#f92672">.</span>sendlineafter(<span style="color:#e6db74">b</span><span style="color:#e6db74">&#34;&gt;&gt;&gt; &#34;</span>, <span style="color:#e6db74">b</span><span style="color:#e6db74">&#34;verifier&#34;</span>)
+	r <span style="color:#f92672">=</span> io<span style="color:#f92672">.</span>recvline()<span style="color:#f92672">.</span>strip()<span style="color:#f92672">.</span>decode()
+	<span style="color:#66d9ef">if</span> <span style="color:#e6db74">&#34;flag&#34;</span> <span style="color:#f92672">in</span> r:
+		print(r)
+	<span style="color:#66d9ef">else</span>:
+		print(io<span style="color:#f92672">.</span>recvline()<span style="color:#f92672">.</span>strip()<span style="color:#f92672">.</span>decode())
+		print(io<span style="color:#f92672">.</span>recvline()<span style="color:#f92672">.</span>strip()<span style="color:#f92672">.</span>decode())
+
+<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">trie</span>(A, debut, fin):
+    <span style="color:#66d9ef">if</span> debut <span style="color:#f92672">&lt;</span> fin:
+        pivot <span style="color:#f92672">=</span> partitionner(A, debut, fin)
+        trie(A, debut, pivot <span style="color:#f92672">-</span> <span style="color:#ae81ff">1</span>)
+        trie(A, pivot <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>, fin)
+
+<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">partitionner</span>(A, debut, fin):
+    pivot <span style="color:#f92672">=</span> A[fin]
+    i <span style="color:#f92672">=</span> debut <span style="color:#f92672">-</span> <span style="color:#ae81ff">1</span>
+    <span style="color:#66d9ef">for</span> j <span style="color:#f92672">in</span> range(debut, fin):
+        <span style="color:#66d9ef">if</span> comparer(j, fin):
+            i <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>
+            echanger(i, j)
+    echanger(i <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>, fin)
+    <span style="color:#66d9ef">return</span> i <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>
+
+<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">trier</span>(N):
+    A <span style="color:#f92672">=</span> list(range(N))
+    trie(A, <span style="color:#ae81ff">0</span>, N <span style="color:#f92672">-</span> <span style="color:#ae81ff">1</span>)
+
+<span style="color:#75715e"># Ouvre la connexion au serveur</span>
+io <span style="color:#f92672">=</span> remote(HOST, PORT)
+
+<span style="color:#75715e"># Récupère la longueur du tableau</span>
+N <span style="color:#f92672">=</span> longueur()
+
+<span style="color:#75715e"># Appel de la fonction de tri que vous devez écrire</span>
+trier(N)
+
+<span style="color:#75715e"># Verification</span>
+verifier()
+
+<span style="color:#75715e"># Fermeture de la connexion</span>
+io<span style="color:#f92672">.</span>close()
+</code></pre></div><p>On exécute ensuite le script et on récupère le flag.</p>
+<h3 id="flag">Flag</h3>
+<blockquote>
+<p><strong>FCSC{6d275607ccfba86daddaa2df6115af5f5623f1f8f2dbb62606e543fc3244e33a}</strong></p>
+</blockquote>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+            
+    <p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg>
+
+        <span class="tag"><a href="https://aickyo.github.io/tags/hugo/">Hugo</a></span>
+        
+    </p>
+
+            
+    <p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-folder meta-icon"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+
+        <span class="tag"><a href="https://aickyo.github.io/categories/hugo/">Hugo</a></span>
+        
+    </p>
+
+  		</div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2023</span>
+            <span><a href="https://aickyo.github.io/">Aickyo</a></span>
+            
+            
+            
+        </div>
+    </div>
+    
+    
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+<script type="text/javascript" src="https://aickyo.github.io/bundle.min.644292943ae47eef02fcd64b11757aeb8caeeaebf473a823b62099edccac808e8d82689359f285e5d95994e5ad5ae3b9c1ccc281eb1828e67d0ba6630f95b832.js" integrity="sha512-ZEKSlDrkfu8C/NZLEXV664yu6uv0c6gjtiCZ7cysgI6NgmiTWfKF5dlZlOWtWuO5wczCgesYKOZ9C6ZjD5W4Mg=="></script>
+
+
+
+    </body>
+</html>

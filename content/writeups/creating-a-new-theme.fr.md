@@ -1,14 +1,14 @@
 +++
-categories = ["Algorithmique"]
-tags = ["FCSC2023"]
-date = "2023-09-28"
-description = "Vous devez trier le tableau, mais cette fois vous devez être efficace !"
+categories = ["Hugo"]
+tags = ["Hugo"]
+date = "2014-09-28"
+description = "Apprenez comment créer un thème Hugo"
 featured = "pic01.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-title = "[FCSC2023] Tri très sélectif"
-slug = "[FCSC2023] Tri très sélectif"
+title = "Création d'un nouveau thème"
+slug = "Creation d'un nouveau theme"
 type = "post"
 toc = true
 +++
@@ -98,4 +98,3 @@ On exécute ensuite le script et on récupère le flag.
 ### Flag 
 
 > **FCSC{6d275607ccfba86daddaa2df6115af5f5623f1f8f2dbb62606e543fc3244e33a}**
-{.is-success}

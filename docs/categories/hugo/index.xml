@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aickyo</title>
-    <link>https://aickyo.github.io/</link>
-    <description>Recent content on Aickyo</description>
+    <title>Hugo on Aickyo</title>
+    <link>https://aickyo.github.io/categories/hugo/</link>
+    <description>Recent content in Hugo on Aickyo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://aickyo.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Whoami</title>
-      <link>https://aickyo.github.io/whoami/</link>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aickyo.github.io/whoami/</guid>
-      <description>Bienvenue sur mon site personnel, je suis Aickyo actuellement étudiant en cybersécurité à l&amp;rsquo;ESNA. Je suis membre de l&amp;rsquo;équipe française CTF Bytes Breakers, composée d&amp;rsquo;étudiants de l&amp;rsquo;ESNA.
-Vous pourrez trouver des writeups de certains challenges de CTF auxquels nous avons participé !
- Twitter : twitter.aickyo.fr Github : github.aickyo.fr LinkedIn : linkedIn.aickyo.fr  </description>
-    </item>
-    
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://aickyo.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Création d&#39;un nouveau thème</title>
       <link>https://aickyo.github.io/writeups/creation-dun-nouveau-theme/</link>
