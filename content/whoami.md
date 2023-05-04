@@ -14,5 +14,7 @@ Vous pourrez trouver des writeups de certains challenges de CTF auxquels nous av
 * Github : [github.aickyo.fr](https://github.com/Aickyo)
 * LinkedIn : [linkedIn.aickyo.fr](https://fr.linkedin.com/in/valentin-tanguy-202035172)
 
+Soon
+
 
 
