@@ -4,7 +4,7 @@ tags = ["FCSC2023"]
 date = "2023-09-28"
 description = "Vous devez trier le tableau, mais cette fois vous devez être efficace !"
 title = "[FCSC2023] Tri très sélectif"
-type = "writeups"
+type = "post"
 toc = true
 +++
 
