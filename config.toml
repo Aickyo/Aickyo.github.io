@@ -107,8 +107,12 @@ enableGlobalLanguageMenu = false
   url  = "https://github.com/Aickyo"
 
 [[params.social]]
-  name = "linkedin"
-  url  = "https://fr.linkedin.com/in/valentin-tanguy-202035172"
+  name = "rootme"
+  url  = "https://tryhackme.com/p/Aickyo"
+
+[[params.social]]
+  name = "hackthebox"
+  url  = "https://app.hackthebox.com/profile/268778"
 
 [[params.social]]
   name = "tryhackme"
