@@ -22,7 +22,7 @@ Vous pourrez trouver des writeups de certains challenges de CTF auxquels nous av
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/valentin-tanguy-202035172)
 -->
 
- ## Plateformes
+ ## Plateformes 
 
 {{< figure src="https://root-me-badge.cloud.duboc.xyz/storage_clients/ec436a26c04cd600064d522dcb6192ca/static_badge_light.png" width=50% >}}
 

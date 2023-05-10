@@ -108,7 +108,7 @@ enableGlobalLanguageMenu = false
 
 [[params.social]]
   name = "rootme"
-  url  = "https://www.root-me.org/Aickyo-643981?lang=fr"
+  url  = "https://www.root-me.org/Aickyo-643981"
 
 [[params.social]]
   name = "hackthebox"
