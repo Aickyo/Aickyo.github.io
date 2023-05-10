@@ -107,6 +107,7 @@ enableGlobalLanguageMenu = false
   url  = "https://github.com/Aickyo"
 
 [[params.social]]
+  path = "/img/rootme.svg"
   name = "rootme"
   url  = "https://tryhackme.com/p/Aickyo"
 
