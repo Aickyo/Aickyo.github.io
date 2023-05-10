@@ -10,9 +10,11 @@ Je suis membre de l'équipe française CTF Bytes Breakers, composée d'étudiant
 
 Vous pourrez trouver des writeups de certains challenges de CTF auxquels nous avons participé ! 
 
-Vous pouvez me contacter ici :
+## Contacts
 
- | [![LinkedIn](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:aickyo@proton.me) |  [![Protonmail](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/valentin-tanguy-202035172) |
+ [![LinkedIn](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:aickyo@proton.me) 
+ 
+ [![Protonmail](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/valentin-tanguy-202035172)
 
 
 
